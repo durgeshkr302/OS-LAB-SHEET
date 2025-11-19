@@ -44,4 +44,4 @@ System Shutdown.
 ## Conclusion
 This lab effectively simulates basic OS process handling. The use of `multiprocessing` and `logging` modules provides a clear, real-world demonstration of concurrent process behavior in a system startup scenario.
 
-**Author:** Harsh Kumar
+**Author:** Durgesh Kumar
